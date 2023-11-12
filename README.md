@@ -1,8 +1,8 @@
 ## npm install react-native
 
-# AwesomeProject
+# Bank
 
-AwesomeProject is a React Native application that [provide a brief description of what your app does].
+Bank is a React Native application that allows user to transfer money.
 
 ## Table of Contents
 
